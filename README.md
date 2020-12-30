@@ -5,3 +5,9 @@
 ____
 **사용예시**
 ![J7jfXcJ mp4_000024866](https://user-images.githubusercontent.com/60593969/103341583-abbbe880-4aca-11eb-96f7-d7abdda6e07e.gif)
+
+1) 국가 code를 하나 선택한다.
+2) 변환할 두번째 국가 code를 선택한다.
+3) 금액을 기입
+4) 결과 출력
+
