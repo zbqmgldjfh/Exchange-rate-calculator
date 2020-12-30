@@ -10,4 +10,5 @@ ____
 2) 변환할 두번째 국가 code를 선택한다.
 3) 금액을 기입
 4) 결과 출력
-* tkdyd
+
+### BeautifulSoup을 활용한 환율 scraping
